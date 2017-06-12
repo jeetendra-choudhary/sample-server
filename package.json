@@ -1,0 +1,17 @@
+{
+  "name": "sample-server",
+  "version": "1.0.0",
+  "description": "Sample Server for Cutover testing",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jeetendra Choudhary",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "express": "^4.15.3",
+    "is-there": "^4.4.2",
+    "lodash": "^4.17.4"
+  }
+}
